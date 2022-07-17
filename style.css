@@ -1,8 +1,4 @@
-/* body{
-    padding-top: 0px;
-    margin-top: 0px;
-    padding-left: 0;
-} */
+
 .navbar ul li{
     display: inline-block;
     justify-content: space-between;
@@ -65,10 +61,7 @@ img{
     color: aqua;
     padding-left: 10%;
     padding-right: 10%;
-    font-style: oblique;
-    
-    
-    
+    font-style: oblique; 
     font-weight: bold;
     
 }
@@ -210,16 +203,11 @@ color: antiquewhite;}
   .fa:hover {
     opacity: 0.7;
   }
-  
-  /* Set a specific color for each brand */
-  
-  /* Facebook */
   .fa-facebook {
     background: #3B5998;
     color: white;
   }
   
-  /* Twitter */
   .fa-twitter {
     background: #2889eb;
     color: white;
